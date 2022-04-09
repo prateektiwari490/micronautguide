@@ -5,3 +5,8 @@ netty:
   default:
     allocator:
       max-order: 3
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
+  username: yourgithubusername
+  token: xxxxxxxxxxxx
